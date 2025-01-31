@@ -1,0 +1,14 @@
+/* src/theme/colors.css */
+:root {
+    --primary-100: #c21d03;
+    --primary-200: #fd5732;
+    --primary-300: #ffb787;
+    --accent-100: #393939;
+    --accent-200: #bebebe;
+    --text-100: #232121;
+    --text-200: #4b4848;
+    --bg-100: #fbfbfb;
+    --bg-200: #f1f1f1;
+    --bg-300: #c8c8c8;
+  }
+  
